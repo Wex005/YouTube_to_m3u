@@ -1,13 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
 
 Bear Grylls Explores the Extreme | National Geographic | |
 https://www.youtube.com/live/9HhhFKxfqUk
-
 
 Survival Shelter | National Geographic | |
 https://www.youtube.com/live/MntsGGuJ4Sc
@@ -23,6 +21,9 @@ https://youtube.com/playlist?list=PLHXBHEEGTb5mQ_ckh9Lc01Qt9FkRrTbJ_
 
 Spring Garden Tips | Garden | |
 https://www.youtube.com/live/fDHPT3tETlk
+
+Live Food Forest | Garden | |
+https://www.youtube.com/live/rQdwqiTcbSs?feature=share
 
 Chicago Botanical Garden | Garden | |
 https://www.youtube.com/live/tabAjvPyy30
@@ -117,9 +118,6 @@ https://www.youtube.com/user/rolandsmartin/live
 Sky News | News | |
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-Al Jazeera Balkans | ExYu | https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png |
-https://www.youtube.com/watch?v=ng1zLZnjQbI
-
 Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
 
@@ -131,27 +129,6 @@ https://www.youtube.com/channel/UChtWcZy3HqvIypuk9787POA/live
 
 MAD TV Greece | Greece | |
 https://www.youtube.com/c/madtvgreece/live
-
-The World Live- earthTV | Entertainment | |
-https://www.youtube.com/watch?v=BW6yxWvqEd0
-
-Habertürk TV | News | |
-https://www.youtube.com/watch?v=SqHIO2zhxbA
-
-Alternative Radio | Radio | http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png |
-https://www.youtube.com/watch?v=5X18D-EbjUc
-
-Best Suffle Dance | Radio | http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png |
-https://www.youtube.com/watch?v=qWf-FPFmVw0
-
-Meditation Music | Radio | https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png |
-https://www.youtube.com/watch?v=Pnjf930F4r4
-
-Oldies Mix | Radio | https://weloveradio.ch/wp-content/uploads/2019/05/radio_oldies_logo_640x640.png |
-https://www.youtube.com/watch?v=TpyMQGeFFpo
-
-PJ Masks | Kids | |
-https://www.youtube.com/watch?v=6E-BS0wpPQk
 
 My Little Pony | Kids | |
 https://www.youtube.com/watch?v=6Vh5dg6eCnY
@@ -279,19 +256,11 @@ https://www.youtube.com/c/geonews/live
 ARY News Live | Pakistan | |
 https://www.youtube.com/c/ArynewsTvofficial/live
 
-HSN | English | |
-https://www.youtube.com/watch?v=1ph8qQnjXts
-
-HSN2 | English | |
-https://www.youtube.com/watch?v=q-BvtDrTnxc
-
 Al Jazeera | English | |
 https://www.youtube.com/c/aljazeeraenglish/live
 
 Hindi hits LOve | Hindi | https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg |
 https://www.youtube.com/channel/UCf5kg_rzyRBn0jbpVCmBBcw/live
-
- Taipei | Taiwan landscape  | |
 
 TRINITAS TV | Romania | |
 https://www.youtube.com/@TRINITASTVoficial/live
@@ -301,35 +270,6 @@ https://www.youtube.com/watch?v=21X5lGlDOfg
 
 NASA Live: Official Stream of NASA TV's Media Channel | Documentary | |
 https://www.youtube.com/@NASA/live
-
-https://www.youtube.com/watch?v=tdwXKd9Gqb8
-
-Z-TV.TV Live Stream | Romania | |
-https://www.youtube.com/watch?v=WIPoilphaUI
-
-Dobrogea TV Live Stream | Romania | |
-https://www.youtube.com/watch?v=PS99EeLDM7E
-
-New Year Music Mix 2023 - Ed Sheeran, Martin Garrix, Avicii, Kygo, Dua Lipa, The Chainsmokers Style | Music | |
-https://www.youtube.com/watch?v=9ls0Eh79Olc
-
-Channels Television Live Stream | English | |
-https://www.youtube.com/watch?v=dfB0qmJo1eM
-
-Live - Sport Camera - Deerfield Beach, Florida USA | Livecam | |
-https://www.youtube.com/watch?v=Lic2fD18wnw
-
-PTV SPORTS LIVE Streaming | Punjabi | |
-https://www.youtube.com/watch?v=1nHrIS2iKaA
-
-Michael Weiss Street Brasov - Pilvax Restaurant & Wine Bar | Livecam | |
-https://www.youtube.com/watch?v=G05wmWFDtSo
-
-Angelus TV | Romania | |
-https://www.youtube.com/watch?v=mTZz2l0letA
-
-ArcadiaTV World | Romania | |
-https://www.youtube.com/watch?v=1HM8bHEMPmw
 
 Bird Feeding - Tennessee | Livecam | |
 https://www.youtube.com/live/nhQ4EV9YTlo?feature=share
